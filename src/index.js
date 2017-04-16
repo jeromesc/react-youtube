@@ -9,7 +9,7 @@ import VideoDetail from './components/video_detail';
 
 import YTSearch from 'youtube-api-search';
 
-const YOUTUBE_API_KEY = API_CODE_HERE!
+const YOUTUBE_API_KEY = ## ENTER HERE ##
 
 
 // Create new component to produce HTML
