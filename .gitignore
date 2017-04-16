@@ -1,5 +1,7 @@
 /test/test_helper_orig.js
 /node_modules
+/.idea
+/.vscode
 bundle.js
 npm-debug.log
 api.keys
